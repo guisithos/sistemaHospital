@@ -1,0 +1,11 @@
+Nome; g
+CEP; g
+Idade; 82
+Comorbidade; s 
+
+Nome; 
+CEP; 
+Idade; 82
+Comorbidade; 
+ 
+

@@ -1,0 +1,7 @@
+Nome; Gui
+CPF; 3
+Bairro; 3
+CEP; 3
+Telefone; 3
+Idade; 28
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1637808450 source:c:\users\gui\desktop\teste pim iv github\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<direct.h>
+
